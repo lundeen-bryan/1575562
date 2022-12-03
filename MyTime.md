@@ -5,7 +5,7 @@
 - `07:54` //_Good morning_
 - `10:16` course 1575562
 - `10:23` //_Break_
-
+- `13:00` course 1575562
 
 ## Thursday 01 December
 

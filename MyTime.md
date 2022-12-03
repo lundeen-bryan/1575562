@@ -6,6 +6,8 @@
 - `10:16` course 1575562
 - `10:23` //_Break_
 - `13:00` course 1575562
+- `14:01` //_Lunch_
+
 
 ## Thursday 01 December
 

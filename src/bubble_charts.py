@@ -7,7 +7,7 @@ import xlwings as xw
 
 # %%
 # Create data frame from pandas mpg csv
-df = pd.read_csv("././data/mpg.csv")
+df = pd.read_csv("./../data/mpg.csv")
 
 # %%
 # replace missing horsepower using xlwings
@@ -33,7 +33,6 @@ xw.view(df)
 # Return Excel table back to DataFrame
 wb = xw.books.active
 sheet1 = wb.sheets[0]
-# new_data = sheet1.range("A1").expand("table").value
 df = xw.load(index=1, header=1)
 
 # %%
@@ -65,3 +64,4 @@ fig = go.Figure(data=data, layout=layout)
 # %%
 # Create plot in html
 pyo.plot(fig, filename="bubble_chart.html")
+# %%

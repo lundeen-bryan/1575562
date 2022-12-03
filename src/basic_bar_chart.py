@@ -6,7 +6,7 @@ import pandas as pd
 
 # %%
 # read in 2018WinterOlympics.csv
-df = pd.read_csv("./data/2018WinterOlympics.csv")
+df = pd.read_csv("./../data/2018WinterOlympics.csv")
 df
 
 # %%

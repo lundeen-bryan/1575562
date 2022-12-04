@@ -7,7 +7,14 @@
 - `10:23` //_Break_
 - `13:00` course 1575562
 - `14:01` //_Lunch_
+- `15:59` course 1575562 //_ending here_
 
+| Time span          | Task           |
+| -----------------: | -------------- |
+|          `07:00`   | course 1575562 |
+|        **`07:00`** | **Total**      |
+
+> _Last update 16:00_ / Lines [valid:4, comments:2]
 
 ## Thursday 01 December
 

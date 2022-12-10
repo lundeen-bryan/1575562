@@ -1,5 +1,11 @@
 # My Time
 
+## Saturday 10 December
+
+- `07:17` //_Let's start_
+- `11:10` course 1575562 //_upto_distplot_
+
+
 ## Sat Dec 03 2022
 
 - `07:54` //_Good morning_

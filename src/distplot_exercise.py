@@ -1,12 +1,14 @@
-#######
-# Objective: Using the iris dataset, develop a Distplot
-# that compares the petal lengths of each class.
+# %% [markdown]
+# ## Objective: Distplot for Iris Dataset
+#
+# Using the iris dataset, develop a Distplot that compares the petal lengths of each class.
+#
 # File: '../data/iris.csv'
+#
 # Fields: 'sepal_length','sepal_width','petal_length','petal_width','class'
+#
 # Classes: 'Iris-setosa','Iris-versicolor','Iris-virginica'
-######
 
-# Perform imports here:
 # %%
 ## imports plotly: pyo, go; pandas; xlwings; numpy;
 import plotly.offline as pyo
@@ -16,7 +18,7 @@ import plotly.io as io
 
 # %%
 ## Read in data to data frame using pandas
-df = pd.read_csv("./data/iris.csv")
+df = pd.read_csv("../data/iris.csv")
 df.shape  # show the col/rows of the df
 
 # %%
@@ -85,5 +87,5 @@ fig.update_yaxes(dict(title_text="Density", title_font_color="#000000"))
 
 # %%
 ## Load plot to html
-# pyo.plot(fig, filename="distplot.html")
+# pyo.plot(fig, filename="distplot.html") ## deprecated
 io.write_html(fig=fig, file="distplot_io.html", auto_open=True)

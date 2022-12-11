@@ -11,8 +11,15 @@
 - `14:48` //_Break_
 - `16:34` course 1575562 //_heatmaps_
 - `16:50` //_Break_
-- `18:21` course 1575562
+- `18:21` course 1575562 //_Interactive Python Dashboards with Plotly and Dash_
 - `19:06` //_Dinner_
+
+| Time span          | Task           |
+| -----------------: | -------------- |
+|          `09:45`   | course 1575562 |
+|        **`09:45`** | **Total**      |
+
+> _Last update 22:30_ / Lines [valid:6, comments:5]
 
 ## Sat Dec 03 2022
 

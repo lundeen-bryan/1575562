@@ -3,8 +3,16 @@
 ## Saturday 10 December
 
 - `07:17` //_Let's start_
-- `11:10` course 1575562 //_upto_distplot_
-
+- `11:10` course 1575562 //_up-to-distplot_
+- `11:20` //_Break_
+- `12:49` course 1575562 //_heatmaps_
+- `13:33` //_Lunch_
+- `14:33` course 1575562
+- `14:48` //_Break_
+- `16:34` course 1575562 //_heatmaps_
+- `16:50` //_Break_
+- `18:21` course 1575562
+- `19:06` //_Dinner_
 
 ## Sat Dec 03 2022
 

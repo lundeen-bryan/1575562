@@ -1,5 +1,9 @@
 # My Time
 
+## Tuesday 06 December
+
+- `12:13` //_Good morning_
+
 ## Sat Dec 03 2022
 
 - `07:54` //_Good morning_

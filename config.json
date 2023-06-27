@@ -2,7 +2,7 @@
   "app_notes": {
     "about_this_config": "see: https://betterdatascience.com/python-json-configuration-file/",
     "app_name": "",
-    "description": "",
+    "description": "Interactive Python Dashboards with Plotly and Dash",
     "author": "",
     "email": "",
     "create_date": "",
